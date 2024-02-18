@@ -10,7 +10,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OyamaKumiko&theme=zenburn)  <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OyamaKumiko)](https://github.com/OyamaKumiko/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OyamaKumiko&theme=zenburn)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OyamaKumiko)](https://github.com/OyamaKumiko/github-readme-stats)
 
 
 <!--
