@@ -11,8 +11,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OyamaKumiko&theme=zenburn)
 
 [](
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=OyamaKumiko&theme=zenburn)
+## Trophy  \
+![trophy](https://github-profile-trophy.vercel.app/?username=OyamaKumiko&theme=zenburn)  \
 )
 
 <!--
