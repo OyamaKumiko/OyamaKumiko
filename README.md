@@ -7,7 +7,7 @@
   </a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OyamaKumiko&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OyamaKumiko&theme=zenburn)  <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OyamaKumiko)](https://github.com/OyamaKumiko/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OyamaKumiko&theme=zenburn)
 
