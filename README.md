@@ -13,6 +13,7 @@
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OyamaKumiko)](https://github.com/OyamaKumiko/github-readme-stats)
 -->
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=zenburn)](https://skillicons.dev)
 
 <!--
 ## Trophy  \
