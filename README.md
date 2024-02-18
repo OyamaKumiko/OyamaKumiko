@@ -13,7 +13,7 @@
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OyamaKumiko)](https://github.com/OyamaKumiko/github-readme-stats)
 -->
-[![My Skills](https://skillicons.dev/icons?i=java,blender,emacs,discord,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,blender,emacs,discord&theme=dark)](https://skillicons.dev)
 
 <!--
 ## Trophy  \
