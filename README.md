@@ -8,7 +8,7 @@
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OyamaKumiko&theme=zenburn)  <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OyamaKumiko&theme=zenburn)](https://github.com/OyamaKumiko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoge&layout=compact&theme=dracula)](https://github.com/OyamaKumiko/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OyamaKumiko&theme=zenburn)
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OyamaKumiko)](https://github.com/OyamaKumiko/github-readme-stats)
